@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 my nickname/alias: mel  
-📫 How to reach me: mel22624@mail.de  
 😄 Pronouns: he/they  
 
 degree in physics in the 90s  
@@ -14,6 +13,8 @@ Loc: Central Europe
 
 <!--
 **sikefield3/sikefield3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📫 How to reach me: mel22624@mail.de  
 
 Here are some ideas to get you started:
 
