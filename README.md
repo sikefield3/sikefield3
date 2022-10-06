@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+my nickname/alias: mel
+
+
 <!--
 **sikefield3/sikefield3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
