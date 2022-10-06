@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 my nickname/alias: mel  
-😄 Pronouns: he/they  
+Pronouns: he/they  
 
 degree in physics in the 90s  
 languages: C++, Python, SAGE  
