@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-my nickname/alias: mel
+my nickname/alias: mel  
+📫 How to reach me: mel22624@mail.de  
+😄 Pronouns: he/they  
+
+degree in physics in the 90s  
+languages: C++, Python, SAGE  
+played around with LEAN  
+interests/hobbies: gaming, number theory, scifi novels  
+
+Loc: Central Europe
 
 
 <!--
