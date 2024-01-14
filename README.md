@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my profile:
+my profile:      
 degree in physics in the 90s  
 languages: C++, Python, SAGE  
 played around with LEAN  
