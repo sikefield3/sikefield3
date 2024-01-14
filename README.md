@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-my nickname/alias: mel  
-pronouns: he/they  
-
+my profile:
 degree in physics in the 90s  
 languages: C++, Python, SAGE  
 played around with LEAN  
-interests/hobbies: gaming, number theory, scifi novels  
+interests/hobbies: casual gaming, number theory, scifi novels  
 
 Loc: Central Europe
 
